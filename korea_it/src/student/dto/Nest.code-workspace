@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../../../cicd_webhook-master"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
